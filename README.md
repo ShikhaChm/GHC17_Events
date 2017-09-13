@@ -41,7 +41,7 @@ Event	                 | Date          | Location     | Time
 Inspired by |[Ladies-Storm-Hackathons/GHC-Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships) and [cszhu/GHC16Events](https://github.com/cszhu/GHC16Events)|
 
 
-Credits: Ms.Carrie Mah |[For more details on how to optimize GHC experience please read.... ](https://medium.com/techbit/optimizing-the-grace-hopper-celebration-experience-726d624a0733)|
+For more details on how to optimize GHC experience please read |[this article.... ](https://medium.com/techbit/optimizing-the-grace-hopper-celebration-experience-726d624a0733)|Credits: Ms.Carrie Mah. 
 
 
 
