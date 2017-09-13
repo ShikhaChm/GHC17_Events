@@ -1,7 +1,7 @@
 # GHC-Events
 This contains a list of events and current job invites sent by companies and GHC. Event dates may vary, some are organized before GHC and others in October during GHC. This will provide information about job and networking event opportunities for GHC attendees. This list will be updated till GHC starts so, keep checking this page for more information.
 
-GHC 2017 will be hostted at:  
+GHC 2017 will be hosted at:  
 **[Orange County Convention Centre](https://www.occc.net/) (OCCC)**  
 West Building  
 [9800 International Drive  
